@@ -1,0 +1,1 @@
+awk '{print $1, $2, $3, $4, $5, $6, $7, $8}' $1_Dealer_schedule | grep $3.*$4 https://upenn.bootcampcontent.com/upenn-bootcamp/UPENN-ENG-BLD-CYBER-PT-02-2020-U-C/blob/master/Lesson-Plans/04-Linux-SysAdmin-Fundamentals/CheatSheet.md
